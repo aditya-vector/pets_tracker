@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  tracker_type: MyString
+  owner_id: 1
+  in_zone: false
+  lost_tracker: false
+
+two:
+  type: 
+  tracker_type: MyString
+  owner_id: 1
+  in_zone: false
+  lost_tracker: false
